@@ -1,0 +1,4 @@
+idno	names	marks
+53	mohini	001
+05	jaggu	002
+28	nene	100
